@@ -1,0 +1,74 @@
+Current working directory: /home/lifeifei/scratch/experiment/cryodrgn/abinit_homo_empiar10028
+Starting run at: Tue Jan 17 23:06:45 EST 2023
+Module loaded
+Virtual env activated
+Current working directory: /home/lifeifei/scratch/experiment/cryodrgn
+Data directory: /home/lifeifei/scratch/data/cryoem/empiar10028
+Running CryoDRGN from path: /home/lifeifei/cryodrgn/bin/cryodrgn
+2023-01-17 23:06:56.402812     105247 particles
+2023-01-17 23:06:56.406982     Image size (pix)  : 360
+2023-01-17 23:06:56.407117     A/pix             : 1.340000033378601
+2023-01-17 23:06:56.407140     DefocusU (A)      : 23344.69921875
+2023-01-17 23:06:56.407160     DefocusV (A)      : 23445.94921875
+2023-01-17 23:06:56.407180     Dfang (deg)       : 36.699999769069194
+2023-01-17 23:06:56.407198     voltage (kV)      : 300.0
+2023-01-17 23:06:56.407216     cs (mm)           : 2.0
+2023-01-17 23:06:56.407235     w                 : 0.10000000149011612
+2023-01-17 23:06:56.407253     Phase shift (deg) : 0.0
+2023-01-17 23:06:56.407270     Saving /home/lifeifei/scratch/data/cryoem/empiar10028/ctf.pkl
+2023-01-17 23:09:18.808773     Processing chunk 0
+2023-01-17 23:09:18.823072     Processing batch 0
+2023-01-17 23:09:42.889642     Processing batch 1
+2023-01-17 23:10:08.250244     Processing batch 2
+2023-01-17 23:10:38.337945     Processing batch 3
+2023-01-17 23:11:05.396255     Processing batch 4
+2023-01-17 23:11:36.646358     Processing batch 5
+2023-01-17 23:12:07.869708     Processing batch 6
+2023-01-17 23:12:42.948154     Processing batch 7
+2023-01-17 23:13:21.399410     Processing batch 8
+2023-01-17 23:13:57.176522     Processing batch 9
+2023-01-17 23:14:31.475771     (50000, 256, 256)
+2023-01-17 23:14:31.476056     Saving /home/lifeifei/scratch/data/cryoem/empiar10028/particles.256.0.mrcs
+2023-01-17 23:14:44.878980     Processing chunk 1
+2023-01-17 23:14:44.885686     Processing batch 0
+2023-01-17 23:15:20.784307     Processing batch 1
+2023-01-17 23:15:55.172572     Processing batch 2
+2023-01-17 23:16:33.414292     Processing batch 3
+2023-01-17 23:17:09.714945     Processing batch 4
+2023-01-17 23:17:46.162834     Processing batch 5
+2023-01-17 23:18:22.142410     Processing batch 6
+2023-01-17 23:19:05.041620     Processing batch 7
+2023-01-17 23:19:42.781596     Processing batch 8
+2023-01-17 23:20:17.546475     Processing batch 9
+2023-01-17 23:20:56.348405     (50000, 256, 256)
+2023-01-17 23:20:56.348686     Saving /home/lifeifei/scratch/data/cryoem/empiar10028/particles.256.1.mrcs
+2023-01-17 23:21:10.191718     Processing chunk 2
+2023-01-17 23:21:10.193614     Processing batch 0
+2023-01-17 23:21:46.666015     Processing batch 1
+2023-01-17 23:21:56.583140     (5247, 256, 256)
+2023-01-17 23:21:56.583371     Saving /home/lifeifei/scratch/data/cryoem/empiar10028/particles.256.2.mrcs
+2023-01-17 23:21:57.952911     Saving /home/lifeifei/scratch/data/cryoem/empiar10028/particles.256.txt
+2023-01-17 23:22:03.034944     Processing batch 0
+2023-01-17 23:22:10.915498     Processing batch 1
+2023-01-17 23:22:17.996161     Processing batch 2
+2023-01-17 23:22:26.980017     Processing batch 3
+2023-01-17 23:22:36.413557     Processing batch 4
+2023-01-17 23:22:49.312444     Processing batch 5
+2023-01-17 23:23:00.255974     Processing batch 6
+2023-01-17 23:23:10.418424     Processing batch 7
+2023-01-17 23:23:22.694100     Processing batch 8
+2023-01-17 23:23:38.393966     Processing batch 9
+2023-01-17 23:23:51.426061     Processing batch 10
+2023-01-17 23:24:04.093903     Processing batch 11
+2023-01-17 23:24:17.320202     Processing batch 12
+2023-01-17 23:24:30.760969     Processing batch 13
+2023-01-17 23:24:46.114925     Processing batch 14
+2023-01-17 23:25:00.663856     Processing batch 15
+2023-01-17 23:25:19.366001     Processing batch 16
+2023-01-17 23:25:36.747436     Processing batch 17
+2023-01-17 23:25:51.758930     Processing batch 18
+2023-01-17 23:26:06.393488     Processing batch 19
+2023-01-17 23:26:20.904852     Processing batch 20
+2023-01-17 23:26:40.260606     Processing batch 21
+2023-01-17 23:26:47.438846     (105247, 128, 128)
+2023-01-17 23:26:47.439247     Saving /home/lifeifei/scratch/data/cryoem/empiar10028/particles.128.mrcs
